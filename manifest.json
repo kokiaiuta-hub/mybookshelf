@@ -1,0 +1,27 @@
+{
+  "name": "MyBookShelf",
+  "short_name": "本棚",
+  "description": "読書管理アプリ — 本棚・お気に入り文章・統計",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#3d2b1f",
+  "theme_color": "#3d2b1f",
+  "lang": "ja",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["books", "lifestyle", "productivity"],
+  "screenshots": []
+}
